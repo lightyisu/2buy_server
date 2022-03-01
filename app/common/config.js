@@ -1,0 +1,9 @@
+module.exports={
+    database:{
+        host:'127.0.0.1',
+        user:'root',
+        password:'123456',
+        database:'2buy',
+        port:'3306'
+    }
+}
